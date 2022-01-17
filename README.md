@@ -14,4 +14,4 @@ Support PG by contributing on their repository on <https://github.com/privacygui
 
 This site code is licensed by MIT.
 
-The CSS is made by [mu](https://github.com/BafS/mu) licensed by MIT
+The CSS is made by [vanillacss](https://vanillacss.com) licensed by MIT
